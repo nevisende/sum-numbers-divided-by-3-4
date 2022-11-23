@@ -1,5 +1,5 @@
 # Sum numbers divided by three or four.
-## It gives you activity recommendations based on the air temperature
+## It calculates the average of numbers.
 ### An example
 ![An screenshot of the program](./ss-example.png)
 
